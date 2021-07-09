@@ -3,4 +3,5 @@
 
 * `for`: es una herramienta que nos permite repetir un conjunto de instrucciones de acuerdo a una condición que nosotros le asignamos. Una vez que esa condición deja de cumplirse, por ejemplo que una variable tenga un cierto valor, ya no se repiten más las instrucciones. Como el mismo FOR hace las repeticiones, no hace falta que las escribamos a todas en el código entonces no se hace tan largo.
 
-* `&&`, `||`, `!`: son operadores lógicos 
+* `&&`, `||`, `!`: son operadores lógicos que entregan como respuesta dos posibles valores 'true' o 'false', es decir verdadero o falso. El && es el operador AND (Y en español) el cual compara dos valores, sólo si ambos son verdaderos devuelve 'true', en los demás casos devuelve 'false'. El || es el operador OR (O en español) y va a devolver 'true' si por lo menos uno de los dos valores es verdadero, si ambos son falsos devuelve 'false'. El ! es el operador NOT (NO en español) o de negación, es decir el opuesto. Este operador no compara entre dos valores, si no que evalúa uno solo. Si es verdadero devuelve 'false' y si es falso devuelve 'verdadero'. 
+Cuando nos referimos a valores verdaderos o falsos, podemos volver a la idea de las variables pensadas como cajas. En términos generales, si la caja contiene algo, su valor lógico es verdadero, si la caja está vacía su valor lógico es falso.
