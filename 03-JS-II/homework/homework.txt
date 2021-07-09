@@ -1,0 +1,6 @@
+# Homework: Javascript II
+---
+
+* `for`: es una herramienta que nos permite repetir un conjunto de instrucciones de acuerdo a una condición que nosotros le asignamos. Una vez que esa condición deja de cumplirse, por ejemplo que una variable tenga un cierto valor, ya no se repiten más las instrucciones. Como el mismo FOR hace las repeticiones, no hace falta que las escribamos a todas en el código entonces no se hace tan largo.
+
+* `&&`, `||`, `!`: son operadores lógicos 
