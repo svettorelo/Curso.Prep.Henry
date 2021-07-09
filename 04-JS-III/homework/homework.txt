@@ -1,0 +1,3 @@
+# Homework: Javascript III
+---
+* Array: también conocido como ARREGLO o MATRIZ en español, es un conjunto ordenado de elementos. Lo podemos imaginar como una caja que contiene cajas, las cuales están ordenadas dentro de la misma y ocupan posiciones específicas, a través de las cuales se puede identificar cada una. Dijimos que las cajas podían contener cualquier tipo de variable, lo mismo sucede aquí, el Arrray puede tener elementos que sean distintos tipos de variables, números, strings, funciones,etc.; incluso puede tener un Array adentro (una caja que tiene adentro cajas, y una de esas cajas del interior tiene a su vez cajas en su interior).
