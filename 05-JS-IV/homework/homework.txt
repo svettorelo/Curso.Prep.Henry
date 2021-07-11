@@ -1,0 +1,15 @@
+# Homework: Javascript IV
+
+## Instrucciones
+---
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+	* Objetos: son similares a los arrays, en el sentido de que contienen un conjunto de elementos o bloques. En los objetos estos bloques se denominan "propiedades", entonces podemos decir que un objeto contiene un conjunto, o es una colección de "propiedades". Los objetos se emplean para contener información variada sobre una sola cosa, por ejemplo se pueden usar para contener los datos de una persona. Cada propiedad tiene un nombre clave (keyvalue) que nos sirve para identificarla, y un valor asociado, es decir lo que "se guarda" en ese bloque. A diferencia de los arrays, no interesa el orden de los bloques, sino el keyvalue de cada uno.
+
+	* Propiedades: es lo que almacenan los objetos, cada propiedad tiene un nombre clave (keyvalue) que nos sirve para identificarla, y un valor asociado. Ese valor asociado puede ser cualquier tipo de dato, incluso una función.
+
+	* Métodos: si el valor de la propiedad de un objeto es una función, se dice que es un "metodo" del objeto. Estas funciones pueden recibir o no argumentos, y pueden devolver o no valores, al igual que cualquier otra función. Si se desea invocar el metodo de un objeto siempre se debe poner "objeto.metodo()".
+
+	* Bucle `for…in`: es un bucle similar al FOR que ya vimos, pero nos permite recorrer por todas propiedades de un objeto. Entonces repite una serie de instrucciones sobre cada propiedad, hasta que recorre todas o hasta que se da una instrucción de parar.
+
+	* Notación de puntos vs notación de corchetes: son dos formas en las cuales se puede acceder al valor de una propiedad de un objeto, ya sea para conocer el valor o para modificarlo o asignarlo. En la notación de puntos se escribe "objeto.propiedad", mientras que en la notación de corchetes (o bracket notation) se escribe "objeto['propiedad']".
